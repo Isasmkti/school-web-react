@@ -1,0 +1,38 @@
+[
+  {
+    "id": "1",
+    "name": "Dr. Andi Wijaya",
+    "graduation": "Alumni 2015",
+    "currentPosition": "Dokter Spesialis - RSUPN Dr. Cipto Mangunkusumo",
+    "photo": "/placeholder.svg",
+    "testimonial": "SMA Negeri 1 Jakarta memberikan fondasi akademik yang sangat kuat. Guru-guru yang berdedikasi dan fasilitas laboratorium yang lengkap membantu saya mengejar impian menjadi dokter.",
+    "rating": 5
+  },
+  {
+    "id": "2",
+    "name": "Sarah Amelia, S.T., M.Eng",
+    "graduation": "Alumni 2016",
+    "currentPosition": "Software Engineer - Google Singapore",
+    "photo": "/placeholder.svg",
+    "testimonial": "Ekstrakurikuler robotika di sekolah ini membuka jalan saya ke dunia teknologi. Sekarang saya bekerja di salah satu perusahaan teknologi terbesar di dunia. Terima kasih guru-guru hebat!",
+    "rating": 5
+  },
+  {
+    "id": "3",
+    "name": "Rizky Pratama, S.E., MBA",
+    "graduation": "Alumni 2014",
+    "currentPosition": "Business Development Manager - Gojek",
+    "photo": "/placeholder.svg",
+    "testimonial": "Pelajaran ekonomi dan organisasi OSIS membentuk jiwa kepemimpinan saya. Pengalaman di sekolah ini sangat berharga untuk karir saya di dunia bisnis.",
+    "rating": 5
+  },
+  {
+    "id": "4",
+    "name": "Dinda Maharani",
+    "graduation": "Alumni 2017",
+    "currentPosition": "Mahasiswa S2 - University of Melbourne",
+    "photo": "/placeholder.svg",
+    "testimonial": "Fasilitas perpustakaan dan bimbingan dari guru-guru membuat saya berhasil mendapatkan beasiswa penuh untuk kuliah di luar negeri. Sekolah terbaik!",
+    "rating": 5
+  }
+]

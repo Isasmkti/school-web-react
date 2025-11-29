@@ -1,0 +1,62 @@
+[
+  {
+    "id": "1",
+    "title": "Formulir Pendaftaran PPDB 2024/2025",
+    "description": "Formulir pendaftaran untuk calon siswa baru tahun ajaran 2024/2025",
+    "fileType": "PDF",
+    "fileSize": "2.5 MB",
+    "category": "PPDB",
+    "downloadUrl": "#",
+    "uploadDate": "2024-03-01"
+  },
+  {
+    "id": "2",
+    "title": "Kalender Akademik 2024/2025",
+    "description": "Jadwal lengkap kegiatan akademik selama satu tahun ajaran",
+    "fileType": "PDF",
+    "fileSize": "1.8 MB",
+    "category": "Akademik",
+    "downloadUrl": "#",
+    "uploadDate": "2024-02-15"
+  },
+  {
+    "id": "3",
+    "title": "Panduan Teknis PPDB",
+    "description": "Petunjuk lengkap proses pendaftaran siswa baru",
+    "fileType": "PDF",
+    "fileSize": "3.2 MB",
+    "category": "PPDB",
+    "downloadUrl": "#",
+    "uploadDate": "2024-03-01"
+  },
+  {
+    "id": "4",
+    "title": "Tata Tertib Siswa",
+    "description": "Peraturan dan tata tertib yang berlaku di sekolah",
+    "fileType": "PDF",
+    "fileSize": "1.5 MB",
+    "category": "Peraturan",
+    "downloadUrl": "#",
+    "uploadDate": "2024-01-10"
+  },
+  {
+    "id": "5",
+    "title": "Formulir Beasiswa",
+    "description": "Formulir pengajuan beasiswa untuk siswa berprestasi dan kurang mampu",
+    "fileType": "PDF",
+    "fileSize": "800 KB",
+    "category": "Beasiswa",
+    "downloadUrl": "#",
+    "uploadDate": "2024-02-20"
+  },
+  {
+    "id": "6",
+    "title": "Brosur Sekolah 2024",
+    "description": "Informasi lengkap tentang profil dan program sekolah",
+    "fileType": "PDF",
+    "fileSize": "5.5 MB",
+    "category": "Informasi",
+    "downloadUrl": "#",
+    "uploadDate": "2024-01-05"
+  }
+]

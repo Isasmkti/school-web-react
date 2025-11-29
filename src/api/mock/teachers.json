@@ -1,0 +1,56 @@
+[
+  {
+    "id": "1",
+    "name": "Dr. Budi Santoso, M.Pd",
+    "position": "Kepala Sekolah",
+    "subject": "Manajemen Pendidikan",
+    "photo": "/placeholder.svg",
+    "education": "S3 Manajemen Pendidikan - Universitas Indonesia",
+    "experience": "25 tahun"
+  },
+  {
+    "id": "2",
+    "name": "Siti Nurhaliza, S.Pd, M.Si",
+    "position": "Wakil Kepala Kurikulum",
+    "subject": "Matematika",
+    "photo": "/placeholder.svg",
+    "education": "S2 Pendidikan Matematika - ITB",
+    "experience": "18 tahun"
+  },
+  {
+    "id": "3",
+    "name": "Ahmad Fauzi, S.Kom, M.T",
+    "position": "Guru",
+    "subject": "Teknik Informatika",
+    "photo": "/placeholder.svg",
+    "education": "S2 Teknik Informatika - UI",
+    "experience": "12 tahun"
+  },
+  {
+    "id": "4",
+    "name": "Rina Kartika, S.Pd",
+    "position": "Guru",
+    "subject": "Bahasa Indonesia",
+    "photo": "/placeholder.svg",
+    "education": "S1 Pendidikan Bahasa Indonesia - UNJ",
+    "experience": "10 tahun"
+  },
+  {
+    "id": "5",
+    "name": "Dedi Hermawan, S.Si, M.Pd",
+    "position": "Guru",
+    "subject": "Fisika",
+    "photo": "/placeholder.svg",
+    "education": "S2 Pendidikan Fisika - UPI",
+    "experience": "15 tahun"
+  },
+  {
+    "id": "6",
+    "name": "Maya Safitri, S.Pd",
+    "position": "Guru",
+    "subject": "Bahasa Inggris",
+    "photo": "/placeholder.svg",
+    "education": "S1 Pendidikan Bahasa Inggris - UNS",
+    "experience": "8 tahun"
+  }
+]

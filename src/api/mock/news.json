@@ -1,0 +1,50 @@
+[
+  {
+    "id": "1",
+    "title": "Prestasi Gemilang di Olimpiade Sains Nasional 2024",
+    "slug": "prestasi-osn-2024",
+    "excerpt": "Siswa kami berhasil meraih medali emas dan perak dalam Olimpiade Sains Nasional tahun 2024",
+    "content": "Dengan bangga kami sampaikan bahwa siswa-siswi SMA Negeri 1 Jakarta telah menorehkan prestasi gemilang dalam ajang Olimpiade Sains Nasional (OSN) 2024. Ahmad Rizki dari kelas XII IPA 1 berhasil meraih medali emas bidang Fisika, sementara Sarah Putri dari kelas XI IPA 2 meraih medali perak bidang Kimia.\n\nPrestasi ini merupakan hasil dari kerja keras siswa dan bimbingan intensif dari para guru pembimbing. Selamat kepada para pemenang!",
+    "image": "/placeholder.svg",
+    "category": "Prestasi",
+    "author": "Admin Sekolah",
+    "publishedAt": "2024-03-15",
+    "tags": ["olimpiade", "prestasi", "sains"]
+  },
+  {
+    "id": "2",
+    "title": "Pendaftaran PPDB 2024/2025 Dibuka",
+    "slug": "ppdb-2024-2025",
+    "excerpt": "Penerimaan Peserta Didik Baru tahun ajaran 2024/2025 resmi dibuka mulai 1 April 2024",
+    "content": "Kami mengumumkan bahwa Penerimaan Peserta Didik Baru (PPDB) untuk tahun ajaran 2024/2025 telah resmi dibuka mulai tanggal 1 April 2024. Pendaftaran dapat dilakukan secara online melalui website sekolah atau datang langsung ke sekolah.\n\nKuota yang tersedia:\n- Jurusan IPA: 108 siswa\n- Jurusan IPS: 72 siswa\n- Jurusan Bahasa: 36 siswa\n\nSegera daftarkan putra-putri Anda!",
+    "image": "/placeholder.svg",
+    "category": "Pengumuman",
+    "author": "Panitia PPDB",
+    "publishedAt": "2024-03-10",
+    "tags": ["ppdb", "pendaftaran", "tahun ajaran baru"]
+  },
+  {
+    "id": "3",
+    "title": "Workshop Teknologi AI untuk Guru",
+    "slug": "workshop-ai-guru",
+    "excerpt": "Sekolah mengadakan workshop tentang implementasi AI dalam pembelajaran modern",
+    "content": "Dalam rangka meningkatkan kompetensi guru dalam era digital, sekolah mengadakan workshop tentang penerapan teknologi Artificial Intelligence (AI) dalam pembelajaran. Workshop ini diikuti oleh 50 guru dari berbagai bidang studi.\n\nMateri yang dibahas meliputi:\n- Pengenalan dasar AI dan Machine Learning\n- Aplikasi AI dalam pembelajaran\n- Tools AI untuk membuat konten pembelajaran\n- Etika penggunaan AI di dunia pendidikan\n\nWorkshop ini mendapat respons positif dari para peserta.",
+    "image": "/placeholder.svg",
+    "category": "Kegiatan",
+    "author": "Tim Pengembangan SDM",
+    "publishedAt": "2024-03-05",
+    "tags": ["workshop", "teknologi", "ai", "guru"]
+  },
+  {
+    "id": "4",
+    "title": "Juara 1 Lomba Debat Bahasa Inggris Tingkat Provinsi",
+    "slug": "juara-debat-bahasa-inggris",
+    "excerpt": "Tim debat sekolah kami berhasil menjadi juara pertama dalam kompetisi debat bahasa Inggris",
+    "content": "Tim debat SMA Negeri 1 Jakarta yang terdiri dari Dimas Prakoso, Alya Rahma, dan Kevin Wijaya berhasil meraih juara pertama dalam Lomba Debat Bahasa Inggris Tingkat Provinsi DKI Jakarta.\n\nKompetisi yang diikuti oleh 45 SMA se-Jakarta ini berlangsung selama 3 hari dengan berbagai tema debat yang menantang. Tim kami menunjukkan kemampuan argumentasi, critical thinking, dan public speaking yang sangat baik.\n\nSelamat kepada tim debat dan terima kasih kepada guru pembimbing!",
+    "image": "/placeholder.svg",
+    "category": "Prestasi",
+    "author": "Admin Sekolah",
+    "publishedAt": "2024-02-28",
+    "tags": ["debat", "bahasa inggris", "prestasi", "lomba"]
+  }
+]
