@@ -1,0 +1,62 @@
+[
+  {
+    "id": "1",
+    "name": "Basket",
+    "category": "Olahraga",
+    "description": "Ekstrakurikuler basket untuk mengembangkan kemampuan olahraga tim dan jiwa sportivitas",
+    "schedule": "Senin & Kamis, 15:00 - 17:00",
+    "coach": "Dedi Hermawan, S.Pd",
+    "achievements": ["Juara 2 Turnamen Antar SMA DKI Jakarta 2023"],
+    "icon": "trophy"
+  },
+  {
+    "id": "2",
+    "name": "Robotika",
+    "category": "Teknologi",
+    "description": "Belajar merancang, membuat, dan memprogram robot untuk berbagai kompetisi",
+    "schedule": "Rabu & Jumat, 14:00 - 16:00",
+    "coach": "Ahmad Fauzi, S.Kom, M.T",
+    "achievements": ["Finalis Kontes Robot Indonesia 2023", "Juara 1 Robot Line Follower Tingkat Provinsi"],
+    "icon": "cpu"
+  },
+  {
+    "id": "3",
+    "name": "Pramuka",
+    "category": "Kepramukaan",
+    "description": "Kegiatan kepramukaan untuk membentuk karakter kepemimpinan dan kemandirian",
+    "schedule": "Sabtu, 08:00 - 12:00",
+    "coach": "Pembina Pramuka",
+    "achievements": ["Regu Terbaik Kwarda DKI Jakarta 2023"],
+    "icon": "compass"
+  },
+  {
+    "id": "4",
+    "name": "Paduan Suara",
+    "category": "Seni",
+    "description": "Mengembangkan bakat menyanyi dan harmonisasi vokal dalam kelompok",
+    "schedule": "Selasa & Kamis, 15:00 - 17:00",
+    "coach": "Maya Safitri, S.Pd",
+    "achievements": ["Juara 3 Festival Paduan Suara Tingkat Nasional 2023"],
+    "icon": "music"
+  },
+  {
+    "id": "5",
+    "name": "English Club",
+    "category": "Bahasa",
+    "description": "Meningkatkan kemampuan bahasa Inggris melalui diskusi, debat, dan presentasi",
+    "schedule": "Rabu, 15:00 - 17:00",
+    "coach": "Maya Safitri, S.Pd",
+    "achievements": ["Juara 1 Debat Bahasa Inggris Tingkat Provinsi 2024"],
+    "icon": "message-circle"
+  },
+  {
+    "id": "6",
+    "name": "Jurnalistik",
+    "category": "Media",
+    "description": "Belajar menulis berita, fotografi, dan mengelola media sekolah",
+    "schedule": "Jumat, 14:00 - 16:00",
+    "coach": "Rina Kartika, S.Pd",
+    "achievements": ["Juara 2 Lomba Majalah Dinding Tingkat Kota 2023"],
+    "icon": "newspaper"
+  }
+]

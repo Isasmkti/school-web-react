@@ -1,0 +1,32 @@
+[
+  {
+    "id": "1",
+    "name": "IPA (Ilmu Pengetahuan Alam)",
+    "description": "Program studi yang fokus pada mata pelajaran sains seperti Matematika, Fisika, Kimia, dan Biologi. Cocok untuk siswa yang ingin melanjutkan ke bidang kedokteran, teknik, dan sains murni.",
+    "subjects": ["Matematika Lanjut", "Fisika", "Kimia", "Biologi"],
+    "capacity": 108,
+    "icon": "microscope",
+    "image": "/placeholder.svg",
+    "careerPaths": ["Dokter", "Insinyur", "Peneliti", "Apoteker", "Arsitek"]
+  },
+  {
+    "id": "2",
+    "name": "IPS (Ilmu Pengetahuan Sosial)",
+    "description": "Program studi yang fokus pada ilmu sosial seperti Ekonomi, Geografi, Sosiologi, dan Sejarah. Ideal untuk siswa yang tertarik pada bidang bisnis, hukum, dan ilmu sosial.",
+    "subjects": ["Ekonomi", "Geografi", "Sosiologi", "Sejarah"],
+    "capacity": 72,
+    "icon": "users",
+    "image": "/placeholder.svg",
+    "careerPaths": ["Pengusaha", "Akuntan", "Pengacara", "Diplomat", "Jurnalis"]
+  },
+  {
+    "id": "3",
+    "name": "Bahasa",
+    "description": "Program studi yang fokus pada pembelajaran bahasa dan sastra, termasuk Bahasa Indonesia, Bahasa Inggris, dan Bahasa Asing lainnya. Sempurna untuk siswa yang berbakat dalam linguistik dan komunikasi.",
+    "subjects": ["Bahasa Indonesia", "Bahasa Inggris", "Bahasa Mandarin", "Sastra"],
+    "capacity": 36,
+    "icon": "book-open",
+    "image": "/placeholder.svg",
+    "careerPaths": ["Penerjemah", "Guru Bahasa", "Penulis", "Editor", "Diplomat"]
+  }
+]

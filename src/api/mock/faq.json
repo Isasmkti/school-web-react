@@ -1,0 +1,42 @@
+[
+  {
+    "id": "1",
+    "question": "Bagaimana cara mendaftar sebagai siswa baru?",
+    "answer": "Pendaftaran dapat dilakukan secara online melalui website sekolah pada menu PPDB atau datang langsung ke sekolah saat jam kerja. Anda perlu menyiapkan dokumen seperti ijazah SMP, SKHUN, kartu keluarga, dan pas foto."
+  },
+  {
+    "id": "2",
+    "question": "Apa saja jurusan yang tersedia?",
+    "answer": "Kami menyediakan 3 jurusan: IPA (Ilmu Pengetahuan Alam), IPS (Ilmu Pengetahuan Sosial), dan Bahasa. Setiap jurusan memiliki kurikulum yang dirancang khusus untuk mempersiapkan siswa ke jenjang pendidikan tinggi."
+  },
+  {
+    "id": "3",
+    "question": "Apakah ada asrama atau program boarding school?",
+    "answer": "Saat ini kami belum menyediakan fasilitas asrama. Namun, kami memiliki kerjasama dengan beberapa kos/indekos yang aman dan nyaman di sekitar sekolah untuk siswa dari luar kota."
+  },
+  {
+    "id": "4",
+    "question": "Berapa biaya sekolah per bulan?",
+    "answer": "Sebagai sekolah negeri, biaya pendidikan sangat terjangkau. SPP bulanan sekitar Rp 150.000 - Rp 250.000. Untuk informasi detail biaya lainnya dapat menghubungi bagian tata usaha sekolah."
+  },
+  {
+    "id": "5",
+    "question": "Apa saja ekstrakurikuler yang tersedia?",
+    "answer": "Kami memiliki berbagai ekstrakurikuler seperti Basket, Robotika, Pramuka, Paduan Suara, English Club, Jurnalistik, dan masih banyak lagi. Setiap siswa wajib mengikuti minimal 1 ekstrakurikuler."
+  },
+  {
+    "id": "6",
+    "question": "Apakah sekolah menyediakan beasiswa?",
+    "answer": "Ya, kami menyediakan beberapa jenis beasiswa seperti beasiswa prestasi akademik, beasiswa prestasi non-akademik, dan beasiswa untuk siswa kurang mampu. Informasi lengkap dapat diperoleh dari bagian kesiswaan."
+  },
+  {
+    "id": "7",
+    "question": "Bagaimana sistem pembelajaran di sekolah?",
+    "answer": "Kami menerapkan sistem pembelajaran aktif dengan kombinasi metode tatap muka, praktikum laboratorium, dan pembelajaran berbasis teknologi. Setiap kelas dilengkapi dengan proyektor dan akses internet."
+  },
+  {
+    "id": "8",
+    "question": "Apakah ada program persiapan ujian masuk PTN?",
+    "answer": "Ya, kami memiliki program bimbingan khusus untuk siswa kelas 12 yang akan mengikuti UTBK-SNBT. Program ini mencakup try out berkala, pembahasan soal, dan strategi mengerjakan soal."
+  }
+]
