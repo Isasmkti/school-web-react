@@ -10,6 +10,9 @@ import Home from "./pages/Home";
 import Profil from "./pages/Profil";
 import Program from "./pages/Program";
 import Berita from "./pages/Berita";
+import Galeri from "./pages/Galeri";
+import Ppdb from "./pages/Ppdb";
+import Kontak from "./pages/Kontak";
 import NotFound from "./pages/NotFound";
 
 const queryClient = new QueryClient();
@@ -27,6 +30,9 @@ const App = () => (
             <Route path="/profil" element={<Profil />} />
             <Route path="/program" element={<Program />} />
             <Route path="/berita" element={<Berita />} />
+            <Route path="/galeri" element={<Galeri />} />
+            <Route path="/ppdb" element={<Ppdb />} />
+            <Route path="/kontak" element={<Kontak />} />
             {/* ADD ALL CUSTOM ROUTES ABOVE THE CATCH-ALL "*" ROUTE */}
             <Route path="*" element={<NotFound />} />
           </Routes>
